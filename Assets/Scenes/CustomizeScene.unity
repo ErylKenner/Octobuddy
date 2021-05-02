@@ -734,8 +734,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ae0775780048a84f9540bda482fce10, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Name: {fileID: 2020411406}
   BodyType: {fileID: 1281441101}
+  Name: {fileID: 1328711651}
   Color1Button: {fileID: 1225814942}
   Color2Button: {fileID: 1618864999}
   Color3Button: {fileID: 2137042997}
@@ -2073,7 +2073,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1704129352
 MonoBehaviour:

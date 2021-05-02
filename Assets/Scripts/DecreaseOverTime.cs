@@ -11,7 +11,7 @@ public class DecreaseOverTime : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log(OctopusData.Name);
+        
     }
 
     // Update is called once per frame
