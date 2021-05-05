@@ -11,12 +11,12 @@ public class HandleCustomization : MonoBehaviour
     void Start()
     {
         Name.onValueChanged.AddListener(delegate {OctopusData.Name = Name.text;});
-        Color1Button.onClick.AddListener(delegate {OctopusData.Animation = GetAnimation(Color1Button.GetComponentInChildren<Text>().text);});
-        Color2Button.onClick.AddListener(delegate {OctopusData.Animation = GetAnimation(Color2Button.GetComponentInChildren<Text>().text);});
-        Color3Button.onClick.AddListener(delegate {OctopusData.Animation = GetAnimation(Color3Button.GetComponentInChildren<Text>().text);});
-        Color4Button.onClick.AddListener(delegate {OctopusData.Animation = GetAnimation(Color4Button.GetComponentInChildren<Text>().text);});
-        Color5Button.onClick.AddListener(delegate {OctopusData.Animation = GetAnimation(Color5Button.GetComponentInChildren<Text>().text);});
-        Color6Button.onClick.AddListener(delegate {OctopusData.Animation = GetAnimation(Color6Button.GetComponentInChildren<Text>().text);});
+        Color1Button.onClick.AddListener(delegate {OctopusData.Animation = GetAnimation(Color1Button.name);});
+        Color2Button.onClick.AddListener(delegate {OctopusData.Animation = GetAnimation(Color2Button.name);});
+        Color3Button.onClick.AddListener(delegate {OctopusData.Animation = GetAnimation(Color3Button.name);});
+        Color4Button.onClick.AddListener(delegate {OctopusData.Animation = GetAnimation(Color4Button.name);});
+        Color5Button.onClick.AddListener(delegate {OctopusData.Animation = GetAnimation(Color5Button.name);});
+        Color6Button.onClick.AddListener(delegate {OctopusData.Animation = GetAnimation(Color6Button.name);});
     }
 
     // Update is called once per frame
