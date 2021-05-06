@@ -6,6 +6,7 @@ public static class OctopusData
 {
     public static string Name;
     public static Animation Animation = null;
+    public static int Color;
 
     public static Dictionary<string, float> Status = new Dictionary<string, float> {
         { "Health", 100.0f }, 
@@ -20,4 +21,15 @@ public static class OctopusData
         { "Pet", 0.0f },
         { "Feed", 0.0f }
     };
+
+    public static void Reset(){
+        Status["Health"] = 100.0f;
+        Status["Hunger"] = 100.0f;
+        Status["Happiness"] = 100.0f;
+        Cooldowns["Rest"] = 0.0f;
+        Cooldowns["Clean"] = 0.0f;
+        Cooldowns["Play"] = 0.0f;
+        Cooldowns["Pet"] = 0.0f;
+        Cooldowns["Feed"] = 0.0f;
+    }
 }

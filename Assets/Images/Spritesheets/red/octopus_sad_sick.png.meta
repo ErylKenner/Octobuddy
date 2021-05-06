@@ -1,7 +1,58 @@
 fileFormatVersion: 2
 guid: 1d01eec26a2297140bf4db391448c8bb
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 3503767053715759457
+    second: octopus_sad_sick_0
+  - first:
+      213: -5179148852587331919
+    second: octopus_sad_sick_1
+  - first:
+      213: 5197087417890794631
+    second: octopus_sad_sick_2
+  - first:
+      213: 175437606214614731
+    second: octopus_sad_sick_3
+  - first:
+      213: -9083589939945111371
+    second: octopus_sad_sick_4
+  - first:
+      213: -254176201859010876
+    second: octopus_sad_sick_5
+  - first:
+      213: 8385240893045251523
+    second: octopus_sad_sick_6
+  - first:
+      213: 7683057332820447250
+    second: octopus_sad_sick_7
+  - first:
+      213: 4728207358266705369
+    second: octopus_sad_sick_8
+  - first:
+      213: -3714664666366157291
+    second: octopus_sad_sick_9
+  - first:
+      213: 489052200512399140
+    second: octopus_sad_sick_10
+  - first:
+      213: -5685428381518858282
+    second: octopus_sad_sick_11
+  - first:
+      213: 3855519112623039466
+    second: octopus_sad_sick_12
+  - first:
+      213: 4690465547747408226
+    second: octopus_sad_sick_13
+  - first:
+      213: 3615330314834536332
+    second: octopus_sad_sick_14
+  - first:
+      213: -218560585058355312
+    second: octopus_sad_sick_15
+  - first:
+      213: -4615831294430687991
+    second: octopus_sad_sick_16
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +92,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +126,378 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: octopus_sad_sick_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 783.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161e1745291ef9030800000000000000
+      internalID: 3503767053715759457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_sick_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 783.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bef8a21f87ff18b0800000000000000
+      internalID: -5179148852587331919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_sick_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 783.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c6802a873cf1840800000000000000
+      internalID: 5197087417890794631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_sick_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 783.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcebaa6c2974f6200800000000000000
+      internalID: 175437606214614731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_sick_4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 783.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b08248931b90f180800000000000000
+      internalID: -9083589939945111371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_sick_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cee5d1571cf87cf0800000000000000
+      internalID: -254176201859010876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_sick_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 522.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd9a025a2c5e5470800000000000000
+      internalID: 8385240893045251523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_sick_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 522.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21019b700f3bf9a60800000000000000
+      internalID: 7683057332820447250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_sick_8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 522.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d500ed8a87fd9140800000000000000
+      internalID: 4728207358266705369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_sick_9
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 522.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51edc85ca2cd27cc0800000000000000
+      internalID: -3714664666366157291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_sick_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4272a20a26679c600800000000000000
+      internalID: 489052200512399140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_sick_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 261.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7f4ab720d4911b0800000000000000
+      internalID: -5685428381518858282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_sick_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 261.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae320ac943e818530800000000000000
+      internalID: 3855519112623039466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_sick_13
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 261.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26931b48091e71140800000000000000
+      internalID: 4690465547747408226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_sick_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 261.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87e96934cb3c2230800000000000000
+      internalID: 3615330314834536332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_sick_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097f1bd4e4487fcf0800000000000000
+      internalID: -218560585058355312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_sick_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dc358b4e541ffb0800000000000000
+      internalID: -4615831294430687991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

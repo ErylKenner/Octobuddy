@@ -1,7 +1,58 @@
 fileFormatVersion: 2
 guid: 9e85189400918bb4085d041e9a44e92c
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -1273996178460639137
+    second: octopus_sad_hungry_0
+  - first:
+      213: -2254303327497632974
+    second: octopus_sad_hungry_1
+  - first:
+      213: 2603918977896704222
+    second: octopus_sad_hungry_2
+  - first:
+      213: -5009342968905516224
+    second: octopus_sad_hungry_3
+  - first:
+      213: -4083087864143275361
+    second: octopus_sad_hungry_4
+  - first:
+      213: 4932731301304077430
+    second: octopus_sad_hungry_5
+  - first:
+      213: 5710065933747402459
+    second: octopus_sad_hungry_6
+  - first:
+      213: 5691476568998232081
+    second: octopus_sad_hungry_7
+  - first:
+      213: 1384220257637759439
+    second: octopus_sad_hungry_8
+  - first:
+      213: 2141529570000411098
+    second: octopus_sad_hungry_9
+  - first:
+      213: -694228240536826532
+    second: octopus_sad_hungry_10
+  - first:
+      213: -4305448920559483031
+    second: octopus_sad_hungry_11
+  - first:
+      213: -1371333731051325262
+    second: octopus_sad_hungry_12
+  - first:
+      213: -7793930826605267415
+    second: octopus_sad_hungry_13
+  - first:
+      213: -7205326268979693156
+    second: octopus_sad_hungry_14
+  - first:
+      213: -4702769229878972364
+    second: octopus_sad_hungry_15
+  - first:
+      213: -3334216619313120373
+    second: octopus_sad_hungry_16
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +92,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +126,378 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: octopus_sad_hungry_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 783.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5006a1c93bd15ee0800000000000000
+      internalID: -1273996178460639137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_hungry_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 783.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233c584411b17b0e0800000000000000
+      internalID: -2254303327497632974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_hungry_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 783.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed86e65a38af22420800000000000000
+      internalID: 2603918977896704222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_hungry_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 783.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b39444c1d3b7ab0800000000000000
+      internalID: -5009342968905516224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_hungry_4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 783.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a180f7835f557c0800000000000000
+      internalID: -4083087864143275361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_hungry_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c0eaadbf4947440800000000000000
+      internalID: 4932731301304077430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_hungry_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 522.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6b219a6ba3e3f40800000000000000
+      internalID: 5710065933747402459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_hungry_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 522.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1104996e8cf2cfe40800000000000000
+      internalID: 5691476568998232081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_hungry_8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 522.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9f56b8dfcb53310800000000000000
+      internalID: 1384220257637759439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_hungry_9
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 522.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad99edf2ccd38bd10800000000000000
+      internalID: 2141529570000411098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_hungry_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d02c9e71b9d56f0800000000000000
+      internalID: -694228240536826532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_hungry_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 261.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967867b9409ff34c0800000000000000
+      internalID: -4305448920559483031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_hungry_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 261.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8bc2cbc3b08fce0800000000000000
+      internalID: -1371333731051325262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_hungry_13
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 261.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926f93c053566d390800000000000000
+      internalID: -7793930826605267415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_hungry_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 261.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99bcae0fe9810c90800000000000000
+      internalID: -7205326268979693156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_hungry_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4303d604d486cbeb0800000000000000
+      internalID: -4702769229878972364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sad_hungry_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b33a176ab7ab1d0800000000000000
+      internalID: -3334216619313120373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

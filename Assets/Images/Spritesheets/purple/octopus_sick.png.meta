@@ -1,7 +1,58 @@
 fileFormatVersion: 2
 guid: 9bcf439857c32294ea5d85731272e885
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 5828990027969078908
+    second: octopus_sick_0
+  - first:
+      213: 6809806846742288911
+    second: octopus_sick_1
+  - first:
+      213: -6221995776046183122
+    second: octopus_sick_2
+  - first:
+      213: 5588562576176454342
+    second: octopus_sick_3
+  - first:
+      213: 7129543770657367731
+    second: octopus_sick_4
+  - first:
+      213: -8679068358652684575
+    second: octopus_sick_5
+  - first:
+      213: -1650614937310446855
+    second: octopus_sick_6
+  - first:
+      213: -2196627893741569844
+    second: octopus_sick_7
+  - first:
+      213: 7112002080529491954
+    second: octopus_sick_8
+  - first:
+      213: 8562871878242028822
+    second: octopus_sick_9
+  - first:
+      213: 1067533810599217975
+    second: octopus_sick_10
+  - first:
+      213: -2978993297176585908
+    second: octopus_sick_11
+  - first:
+      213: 3699082471209454579
+    second: octopus_sick_12
+  - first:
+      213: 6329862666842396227
+    second: octopus_sick_13
+  - first:
+      213: 2449537894579922395
+    second: octopus_sick_14
+  - first:
+      213: -1377641775710600891
+    second: octopus_sick_15
+  - first:
+      213: -1643018382209178678
+    second: octopus_sick_16
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +92,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +126,378 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: octopus_sick_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 783.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7624601c8bb4e050800000000000000
+      internalID: 5828990027969078908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sick_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 783.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ad8194f3b418e50800000000000000
+      internalID: 6809806846742288911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sick_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 783.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d49c6aec707a9a0800000000000000
+      internalID: -6221995776046183122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sick_3
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 783.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca1a06bd009e8d40800000000000000
+      internalID: 5588562576176454342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sick_4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 783.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6a1a4194a31f260800000000000000
+      internalID: 7129543770657367731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sick_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e69c2dbf41cd8780800000000000000
+      internalID: -8679068358652684575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sick_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 522.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa38a8b576d719e0800000000000000
+      internalID: -1650614937310446855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sick_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 522.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8b1d1a1920481e0800000000000000
+      internalID: -2196627893741569844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sick_8
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 522.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7acc31638e2b260800000000000000
+      internalID: 7112002080529491954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sick_9
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 522.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d4ccfea9e65d670800000000000000
+      internalID: 8562871878242028822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sick_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b4c7e3854a0de00800000000000000
+      internalID: 1067533810599217975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sick_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 261.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49158d216d78a6d0800000000000000
+      internalID: -2978993297176585908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sick_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 261.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb4053b8e7c55330800000000000000
+      internalID: 3699082471209454579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sick_13
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 261.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346d526fe8038d750800000000000000
+      internalID: 6329862666842396227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sick_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 261.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd56b46acb18ef120800000000000000
+      internalID: 2449537894579922395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sick_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5410803aa12a1ece0800000000000000
+      internalID: -1377641775710600891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: octopus_sick_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0.75
+        width: 224.4
+        height: 261.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac32cf88c73d239e0800000000000000
+      internalID: -1643018382209178678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
